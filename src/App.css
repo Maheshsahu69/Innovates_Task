@@ -1,0 +1,68 @@
+#outerDivID{
+  width: 60%;
+  height: 300px;
+  border:1px solid #7a7a52;
+  margin-top: 20px;
+  margin-left: 70px;
+  padding-top: 20px;
+  padding-left:15px;
+  padding-right:15px;
+}
+
+#btnIncrement{
+  font-size:48px;
+  color:red;
+  border: none;
+  background-color: white;
+  
+}
+
+#btnIncrement:hover{
+  
+  cursor: pointer;
+}
+
+#btnIncrement:active{
+  border: 0px ;
+  text-decoration: none;
+  outline:0px;
+  font-size:48px;
+}
+
+#btnDecreament{
+  font-size:48px;
+  color:#006699;
+  border: none;
+  background-color: white;
+
+}
+
+#btnDecreament:hover{
+  cursor: pointer;
+}
+
+#btnDecreament:active{
+  border: 0px solid #0d0d0d;
+  font-size:48px;
+  text-decoration: none;
+  outline:0px;
+  
+}
+
+#TitleDivAdult{
+  width:100%;
+  font-size: 25px;
+  Color:#004d99;
+  
+}
+#TitleDivRoom{
+  width:100%;
+  font-size: 25px;
+  Color:#006699;
+}
+#TitleDivChildren{
+  width:100%;
+  font-size: 25px;
+  Color:#006699;
+}
+
